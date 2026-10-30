@@ -58,7 +58,7 @@
 - 🔹Javelin of Lightning for ❕returning **Corina** to **Phobos** and **Tericles**.
 
 ## Session 04: 05.07.2026
-- **Harkus** (gnome) is a Druids of the Oldwoods who protect the *Mossy Temple*.
+- **Harkus** (gnome) is a Druids of the *Oldwoods* who protect the *Mossy Temple*.
     - He was cursed with a *Feeblemind* by **Demetria** (dryad).
 - **Loreus** (satyr) came to plead to **Demetria** to stop kidnapping humans.
 - 🔹Bronze Shield depicting **Estor Arkelander**  
@@ -77,13 +77,13 @@
     - The dwarves that work in the copper mines are offering a reward for the skulls of their kin slain in the *Mithral Mines* by the monsters of **Lutheria**.
 
 ## Sesison 02: 09.06.2026
-Three Great Tasks:  
-1. ❗Claim the weapons of the Dragonlords.
-    - Find the lich kind **Damon** at the *Necropolis of Telamok* in the *Mithral Mountains*, give him the special coin and retrieve the weapons of the Dragonlords from their resting places.
-2. ❗Drink deep from the bottomless dragon horn.
-    - Head to *Estoria* to drink from the horn of the dragon **Balmytria** that is found at the Temple of the Five Gods.
-3. ❗Rekindle the fires of the *Mithral Forge* of **Volkan** and claim the weapons wileded against the titans.
-    - Head to *Estoria* to talk to the dwarves that work in the copper mines.
+- Three Great Tasks:  
+    1. ❗Claim the weapons of the Dragonlords.
+        - Find the lich kind **Damon** at the *Necropolis of Telamok* in the *Mithral Mountains*, give him the special coin and retrieve the weapons of the Dragonlords from their resting places.
+    2. ❗Drink deep from the bottomless dragon horn.
+        - Head to *Estoria* to drink from the horn of the dragon **Balmytria** that is found at the Temple of the Five Gods.
+    3. ❗Rekindle the fires of the *Mithral Forge* of **Volkan** and claim the weapons wileded against the titans.
+        - Head to *Estoria* to talk to the dwarves that work in the copper mines.
 
 - ❗💀Reach *Typhoon Island*
 - **Versi the Oracle** tells me that only by jumping in the vortex on *Typhoon Island* can the curse be broken.
